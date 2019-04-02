@@ -1,4 +1,4 @@
-#basically a change to https://github.com/mans-men/eye-blink-detection-demo to allow reddit scrolling with blinking, and redundancy to 
+#basically a change to https://github.com/mans-men/eye-blink-detection-demo to allow reddit scrolling with blinking, and redundancy to allow head movement (using multiple monitors, because why not)
 
 ## Environment
 * win10
